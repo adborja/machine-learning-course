@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Section 6 - Polynomial Regression.iml" filepath="$PROJECT_DIR$/.idea/Section 6 - Polynomial Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Section 7 - Support Vector Regression (SVR)/.idea/Section 7 - Support Vector Regression (SVR).iml" filepath="$PROJECT_DIR$/../Section 7 - Support Vector Regression (SVR)/.idea/Section 7 - Support Vector Regression (SVR).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Section 8 - Decision Tree Regression/.idea/Section 8 - Decision Tree Regression.iml" filepath="$PROJECT_DIR$/../Section 8 - Decision Tree Regression/.idea/Section 8 - Decision Tree Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Section 9 - Random Forest Regression/.idea/Section 9 - Random Forest Regression.iml" filepath="$PROJECT_DIR$/../Section 9 - Random Forest Regression/.idea/Section 9 - Random Forest Regression.iml" />
     </modules>
   </component>
 </project>

@@ -6,5 +6,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="R Skeletons" level="application" />
     <orderEntry type="library" name="R User Library" level="project" />
+    <orderEntry type="module" module-name="Section 7 - Support Vector Regression (SVR)" />
+    <orderEntry type="module" module-name="Section 8 - Decision Tree Regression" />
+    <orderEntry type="module" module-name="Section 9 - Random Forest Regression" />
   </component>
 </module>
