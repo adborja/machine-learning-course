@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Part 1 - Data Preprocessing.iml" filepath="$PROJECT_DIR$/.idea/Part 1 - Data Preprocessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Part 2 - Regression/Section 4 - Simple Linear Regression/.idea/Section 4 - Simple Linear Regression.iml" filepath="$PROJECT_DIR$/../Part 2 - Regression/Section 4 - Simple Linear Regression/.idea/Section 4 - Simple Linear Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Part 2 - Regression/Section 5 - Multiple Linear Regression/.idea/Section 5 - Multiple Linear Regression.iml" filepath="$PROJECT_DIR$/../Part 2 - Regression/Section 5 - Multiple Linear Regression/.idea/Section 5 - Multiple Linear Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Part 2 - Regression/Section 6 - Polynomial Regression/.idea/Section 6 - Polynomial Regression.iml" filepath="$PROJECT_DIR$/../Part 2 - Regression/Section 6 - Polynomial Regression/.idea/Section 6 - Polynomial Regression.iml" />
+    </modules>
+  </component>
+</project>
