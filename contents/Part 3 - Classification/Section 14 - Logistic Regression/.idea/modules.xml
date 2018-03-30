@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Section 14 - Logistic Regression.iml" filepath="$PROJECT_DIR$/.idea/Section 14 - Logistic Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Section 15 - K-Nearest Neighbors (K-NN)/.idea/Section 15 - K-Nearest Neighbors (K-NN).iml" filepath="$PROJECT_DIR$/../Section 15 - K-Nearest Neighbors (K-NN)/.idea/Section 15 - K-Nearest Neighbors (K-NN).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Section 16 - Support Vector Machine (SVM)/.idea/Section 16 - Support Vector Machine (SVM).iml" filepath="$PROJECT_DIR$/../Section 16 - Support Vector Machine (SVM)/.idea/Section 16 - Support Vector Machine (SVM).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Section 17 - Kernel SVM/.idea/Section 17 - Kernel SVM.iml" filepath="$PROJECT_DIR$/../Section 17 - Kernel SVM/.idea/Section 17 - Kernel SVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Section 18 - Naive Bayes/.idea/Section 18 - Naive Bayes.iml" filepath="$PROJECT_DIR$/../Section 18 - Naive Bayes/.idea/Section 18 - Naive Bayes.iml" />
+    </modules>
+  </component>
+</project>
