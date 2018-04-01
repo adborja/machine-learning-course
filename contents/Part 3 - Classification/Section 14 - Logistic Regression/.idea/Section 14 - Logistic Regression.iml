@@ -10,6 +10,9 @@
     <orderEntry type="module" module-name="Section 16 - Support Vector Machine (SVM)" />
     <orderEntry type="module" module-name="Section 17 - Kernel SVM" />
     <orderEntry type="module" module-name="Section 18 - Naive Bayes" />
+    <orderEntry type="module" module-name="Section 19 - Decision Tree Classification" />
+    <orderEntry type="module" module-name="Section 20 - Random Forest Classification" />
+    <orderEntry type="module" module-name="Section 48 - Model Selection" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
