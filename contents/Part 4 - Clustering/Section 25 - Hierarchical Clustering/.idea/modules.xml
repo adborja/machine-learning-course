@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Section 25 - Hierarchical Clustering.iml" filepath="$PROJECT_DIR$/.idea/Section 25 - Hierarchical Clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Part 5 - Association Rule Learning/Section 28 - Apriori/.idea/Section 28 - Apriori.iml" filepath="$PROJECT_DIR$/../../Part 5 - Association Rule Learning/Section 28 - Apriori/.idea/Section 28 - Apriori.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/.idea/Section 32 - Upper Confidence Bound (UCB).iml" filepath="$PROJECT_DIR$/../../Part 6 - Reinforcement Learning/Section 32 - Upper Confidence Bound (UCB)/.idea/Section 32 - Upper Confidence Bound (UCB).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/.idea/Section 33 - Thompson Sampling.iml" filepath="$PROJECT_DIR$/../../Part 6 - Reinforcement Learning/Section 33 - Thompson Sampling/.idea/Section 33 - Thompson Sampling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/.idea/Section 36 - Natural Language Processing.iml" filepath="$PROJECT_DIR$/../../Part 7 - Natural Language Processing/Section 36 - Natural Language Processing/.idea/Section 36 - Natural Language Processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/.idea/Section 39 - Artificial Neural Networks (ANN).iml" filepath="$PROJECT_DIR$/../../Part 8 - Deep Learning/Section 39 - Artificial Neural Networks (ANN)/.idea/Section 39 - Artificial Neural Networks (ANN).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Part 8 - Deep Learning/Section 40 - Convolutional Neural Networks (CNN)/.idea/Section 40 - Convolutional Neural Networks (CNN).iml" filepath="$PROJECT_DIR$/../../Part 8 - Deep Learning/Section 40 - Convolutional Neural Networks (CNN)/.idea/Section 40 - Convolutional Neural Networks (CNN).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/.idea/Section 43 - Principal Component Analysis (PCA).iml" filepath="$PROJECT_DIR$/../../Part 9 - Dimensionality Reduction/Section 43 - Principal Component Analysis (PCA)/.idea/Section 43 - Principal Component Analysis (PCA).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/.idea/Section 44 - Linear Discriminant Analysis (LDA).iml" filepath="$PROJECT_DIR$/../../Part 9 - Dimensionality Reduction/Section 44 - Linear Discriminant Analysis (LDA)/.idea/Section 44 - Linear Discriminant Analysis (LDA).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/.idea/Section 45 - Kernel PCA.iml" filepath="$PROJECT_DIR$/../../Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/.idea/Section 45 - Kernel PCA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Part 10 - Model Selection &amp; Boosting/Section 49 - XGBoost/.idea/Section 49 - XGBoost.iml" filepath="$PROJECT_DIR$/../../Part 10 - Model Selection &amp; Boosting/Section 49 - XGBoost/.idea/Section 49 - XGBoost.iml" />
+    </modules>
+  </component>
+</project>

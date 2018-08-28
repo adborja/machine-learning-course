@@ -1,0 +1,18 @@
+The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)
+--------------
+https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+
+
+A Friendly Introduction to Cross-Entropy Loss
+--------------
+http://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
+
+
+2D visualisation of a CNN
+---------------
+http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+
+
+Principal Component Analysis - 2D Samples
+--------------
+http://setosa.io/ev/principal-component-analysis/

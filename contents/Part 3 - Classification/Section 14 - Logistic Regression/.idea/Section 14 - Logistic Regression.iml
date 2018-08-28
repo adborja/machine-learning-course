@@ -13,6 +13,10 @@
     <orderEntry type="module" module-name="Section 19 - Decision Tree Classification" />
     <orderEntry type="module" module-name="Section 20 - Random Forest Classification" />
     <orderEntry type="module" module-name="Section 48 - Model Selection" />
+    <orderEntry type="module" module-name="wine_quality" />
+    <orderEntry type="module" module-name="regex" />
+    <orderEntry type="module" module-name="map-reduce" />
+    <orderEntry type="module" module-name="Section 24 - K-Means Clustering" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
